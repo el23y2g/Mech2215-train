@@ -1,6 +1,5 @@
 # Mech2215-train
 choo choo
- read train.ino
 
 
 Servo motor
